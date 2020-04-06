@@ -10,13 +10,13 @@ Desenvolvendo uma aplicação utilizando:
 Oferecido pela [RocketSeat](https://rocketseat.com.br).
 
 1. Página inicial do website desenvolvido no ReactJS.
-![alt text](./OmniStack2020/images/main.png)
+![alt text](https://github.com/raffoliveira/OmniStack2020/tree/master/images/main.png)
 
 2. Página de logon do wesite desenvolvido no ReactJS.
-![alt text](./OmniStack2020/images/logon.png)
+![alt text](https://github.com/raffoliveira/OmniStack2020/tree/master/images/logon.png)
 
 3. Página de registros do wesite desenvolvido no ReactJS.
-![alt text](./OmniStack2020/images/register.png)
+![alt text](https://github.com/raffoliveira/OmniStack2020/tree/master/images/register.png)
 
 
 
