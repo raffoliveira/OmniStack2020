@@ -33,9 +33,7 @@ export default function Register(){
         }catch(err){
             alert('Register error! Try again.');
             
-        }
-        
-        
+        }       
     }
 
     return(
