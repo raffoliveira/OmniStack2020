@@ -9,7 +9,6 @@ Desenvolvendo uma aplicação utilizando:
 
 Oferecido pela [RocketSeat](https://rocketseat.com.br).
 
-[main]: 
 
 1. Página inicial do website desenvolvido no ReactJS.
 ![main page website](https://github.com/raffoliveira/OmniStack2020/tree/master/images/main.png)
