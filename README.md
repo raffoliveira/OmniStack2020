@@ -9,10 +9,10 @@ Desenvolvendo uma aplicação utilizando:
 
 Oferecido pela [RocketSeat](https://rocketseat.com.br).
 
-[main]: https://github.com/raffoliveira/OmniStack2020/tree/master/images/main.png "main page website"
+[main]: 
 
 1. Página inicial do website desenvolvido no ReactJS.
-![alt text][main]
+![main page website](https://github.com/raffoliveira/OmniStack2020/tree/master/images/main.png)
 
 2. Página de logon do wesite desenvolvido no ReactJS.
 ![alt text](https://github.com/raffoliveira/OmniStack2020/tree/master/images/logon.png)
