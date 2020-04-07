@@ -7,7 +7,7 @@ Desenvolvendo uma aplicação utilizando:
 + **ReactJs** no front-end
 + **React Native** no mobile
 
-Oferecido pela [RocketSeat](https://rocketseat.com.br).
+Oferecido pela [RocketSeat](https://rocketseat.com.br) durante o OmniStack 11.
 
 
 1. Página inicial do website desenvolvido no ReactJS.
